@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🎀 About Me:
 🔭 I’m currently working on my Python skills.<br>👯 I’m looking forward to meet more amazing people along the way.<br>🌱 I’m currently learning Django.<br>💬 Feel free to ask me about anything.<br>⚡ Fun fact: I'm an extrovert :D<br><br>Nice to meet you!
 
 
