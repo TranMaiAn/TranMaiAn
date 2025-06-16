@@ -8,7 +8,7 @@ I'm a developer located in **Vietnam**. My journey in programming began with a s
 
 ## Skills & Technologies 💻📚
 
-django,html,css,github,py,bootstrap,figma,js,tailwind,wordpress
+Django, HTML, CSS, github, Python, Bootstrap, Figma, JavaScript, Tailwind, Wordpress
 
 ## Top Projects 📌
 
