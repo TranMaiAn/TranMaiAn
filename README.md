@@ -1,16 +1,48 @@
-# 🎀 About Me:
-🔭 I’m currently working on my Python skills.<br>👯 I’m looking forward to meet more amazing people along the way.<br>🌱 I’m currently learning Django.<br>💬 Feel free to ask me about anything.<br>⚡ Fun fact: I'm an extrovert :D<br><br>Nice to meet you!
+## Hii! Have a good day there! 👋
 
+I'm **Ann**, a passionate developer from **Vietnam**. I've always loved coding, even from a young age, and creating amazing projects that make a difference are my favorite hobby! I'd love for us to connect and explore the world of technology together!
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TranMaiAn&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TranMaiAn&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TranMaiAn&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+I'm a developer located in **Vietnam**. My journey in programming began with a strong interest in web development and software engineering. I enjoy working on innovative projects and continuously learning new technologies. If you're curious about my work, feel free to explore my repositories!
 
----
-[![](https://visitcount.itsvg.in/api?id=TranMaiAn&icon=0&color=0)](https://visitcount.itsvg.in)
+## Skills & Technologies
+
+django,html,css,github,py,bootstrap,figma,js,tailwind,wordpress
+
+## Top Projects
+
+- [**TranMaiAn**](https://github.com/TranMaiAn/TranMaiAn): Config files for my GitHub profile. ⭐️ 0
+- [**DjangoTeky_Bai7**](https://github.com/TranMaiAn/DjangoTeky_Bai7): A Django project showcasing my skills. ⭐️ 0
+- [**PythonProject_Teky**](https://github.com/TranMaiAn/PythonProject_Teky): A Python application with rich features. ⭐️ 0
+- [**FilmWebsite**](https://github.com/TranMaiAn/FilmWebsite): A website dedicated to movies, built with HTML and CSS. ⭐️ 0
+- [**tranmaian_shop**](https://github.com/TranMaiAn/tranmaian_shop): An online shop project using modern web technologies. ⭐️ 0
+
+## GitHub Stats
+
+🏆 **Public Repositories**: 8  
+👥 **Followers**: 0  
+📅 **Following**: 0  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranMaiAn&show_icons=true&theme=radical)
+
+## Recent Activity
+
+Here are some of my latest activities on GitHub:
+- **[tranmaian_shop](https://github.com/TranMaiAn/tranmaian_shop)**: Updated project files on July 21, 2023.
+- **[DjangoTeky_Bai7](https://github.com/TranMaiAn/DjangoTeky_Bai7)**: Commited new features on May 9, 2025.
+- **[PythonProject_Teky](https://github.com/TranMaiAn/PythonProject_Teky)**: Fixed bugs and improved performance on April 25, 2025.
+- **[FilmWebsite](https://github.com/TranMaiAn/FilmWebsite)**: Made design adjustments on May 17, 2024.
+- **[Finale](https://github.com/TranMaiAn/Finale)**: Added new features on July 21, 2023.
+
+## Take care 🧡! 
+
+```
+     \                                                     |                              \ \  
+    _ \    __ \   __ \       \ \  \   /   _` |   __|       __ \    _ \   __|   _ \      _)   | 
+   ___ \   |   |  |   |       \ \  \ /   (   | \__ \       | | |   __/  |      __/           | 
+ _/    _\ _|  _| _|  _|        \_/\_/   \__._| ____/      _| |_| \___| _|    \___|      _)   | 
+                                                                                           _/  
+                                                                            
+                  
+```
