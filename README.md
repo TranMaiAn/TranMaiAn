@@ -1,10 +1,10 @@
 ## Hii! Have a good day there! 👋
 
-I'm **Ann**, a passionate developer in **Asia**. I've always loved coding, even from a young age, which turned into my hobby over time. I'd love for us to connect and explore the world of technology together!
+I'm **Ann**, a passionate developer from **Vietnam**. I've always loved coding, even from a young age, which turned into my hobby over time. I'd love for us to connect and explore the world of technology together!
 
 ## About Me 🎀
 
-I'm a developer located in **Vietnam**. My journey in programming began with a strong interest in web development and software engineering. I enjoy working on innovative projects, continuously learning new technologies and getting to meet new people on the way. If you're curious about my work, feel free to explore my repositories!
+My journey in programming began with a strong interest in web development and software engineering. I enjoy working on innovative projects, continuously learning new technologies and getting to meet new people on the way. If you're curious about my work, feel free to explore my repositories!
 
 ## Skills & Technologies 💻📚
 
