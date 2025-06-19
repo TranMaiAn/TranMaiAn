@@ -1,6 +1,6 @@
 ## Hii! Have a good day there! 👋
 
-I'm **Ann**, a passionate developer in **Asia**. I've always loved coding, even from a young age, and creating amazing projects that make a difference are my favorite hobby! I'd love for us to connect and explore the world of technology together!
+I'm **Ann**, a passionate developer in **Asia**. I've always loved coding, even from a young age, which turned into my hobby over time. I'd love for us to connect and explore the world of technology together!
 
 ## About Me 🎀
 
