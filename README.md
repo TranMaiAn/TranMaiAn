@@ -1,10 +1,10 @@
 ## Hii! Have a good day there! 👋
 
-I'm **Ann**, a passionate developer from **Vietnam**. I've always loved coding, even from a young age, which turned into my hobby over time. I'd love for us to connect and explore the world of technology together!
+I'm **Ann**, a passionate developer from **Vietnam**. I've always loved coding, which turned into my hobby over time. I'd love for us to connect and explore the world of technology together!
 
 ## About Me 🎀
 
-My journey in programming began with a strong interest in web development and software engineering. I enjoy working on innovative projects, continuously learning new technologies and getting to meet new people on the way. If you're curious about my work, feel free to explore my repositories!
+My journey in programming began with my strong interest in web development and software engineering from a young age. I enjoy working on challenging projects, learning new technologies and getting to meet new people on the way. If you're curious about my work, feel free to explore my repositories!
 
 ## Skills & Technologies 💻📚
 
@@ -12,11 +12,11 @@ Django, HTML, CSS, github, Python, Bootstrap, Figma, JavaScript, Tailwind, Wordp
 
 ## Top Projects 📌
 
-- [**TranMaiAn**](https://github.com/TranMaiAn/TranMaiAn): Config files for my GitHub profile. ⭐️ 0
-- [**DjangoTeky_Bai7**](https://github.com/TranMaiAn/DjangoTeky_Bai7): A Django project showcasing my skills. ⭐️ 0
-- [**PythonProject_Teky**](https://github.com/TranMaiAn/PythonProject_Teky): A Python application with rich features. ⭐️ 0
-- [**FilmWebsite**](https://github.com/TranMaiAn/FilmWebsite): A website dedicated to movies, built with HTML and CSS. ⭐️ 0
-- [**tranmaian_shop**](https://github.com/TranMaiAn/tranmaian_shop): An online shop project using modern web technologies. ⭐️ 0
+- [**TranMaiAn**](https://github.com/TranMaiAn/TranMaiAn): Config files for my GitHub profile. ⭐️
+- [**DjangoTeky_Bai7**](https://github.com/TranMaiAn/DjangoTeky_Bai7): A Django project showcasing my skills. ⭐️
+- [**PythonProject_Teky**](https://github.com/TranMaiAn/PythonProject_Teky): A Python application with rich features. ⭐️
+- [**FilmWebsite**](https://github.com/TranMaiAn/FilmWebsite): A website dedicated to movies, built with HTML and CSS. ⭐️
+- [**tranmaian_shop**](https://github.com/TranMaiAn/tranmaian_shop): An online shop project using modern web technologies. ⭐️
 
 ## GitHub Stats 📊
 
@@ -38,7 +38,7 @@ Here are some of my latest activities on GitHub:
 ## Take care 🧡! 
 
 ```
-     \                                                     |                              \ \  
+     \                                                     |                                \  
     _ \    __ \   __ \       \ \  \   /   _` |   __|       __ \    _ \   __|   _ \      _)   | 
    ___ \   |   |  |   |       \ \  \ /   (   | \__ \       | | |   __/  |      __/           | 
  _/    _\ _|  _| _|  _|        \_/\_/   \__._| ____/      _| |_| \___| _|    \___|      _)   | 
